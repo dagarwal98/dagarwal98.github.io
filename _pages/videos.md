@@ -25,3 +25,4 @@ This video switches dashboard screens at a specified time interval. The data is 
 
 {% include video id="ZQi56NdCRFE" provider="youtube" %}
 This one is for parents with young kids. I have created a program in Excel to generate math worksheets for kids to practice. Using this program, unlimited worksheets for addition, subtraction, multiplication, or division can be created.
+Link to Excel file is: <a href="https://github.com/dagarwal98/miscellaneous">Math Worksheet Generator</a>
