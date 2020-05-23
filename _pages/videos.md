@@ -24,5 +24,5 @@ This video shows how to import data from MySQL table into Excel worksheet and ha
 This video switches dashboard screens at a specified time interval. The data is pulled from MySQL table using power query and is refreshed  periodically. As data is refreshed the dashboard is updated to show latest status.
 
 {% include video id="ZQi56NdCRFE" provider="youtube" %}
-This one is for parents with young kids. I have created a program in Excel to generate math worksheets for kids to practice. Using this program, unlimited worksheets for addition, subtraction, multiplication, or division can be created.
-Link to Excel file is: <a href="https://github.com/dagarwal98/miscellaneous">Math Worksheet Generator</a>
+This one is for parents with young kids. I have created a program in Excel to generate math worksheets for kids to practice. Using this program, unlimited worksheets for addition, subtraction, multiplication, or division can be created.<br />
+Link to Excel file: <a href="https://github.com/dagarwal98/miscellaneous">Math Worksheet Generator</a>
