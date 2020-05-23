@@ -4,29 +4,6 @@ permalink: /videos/
 hidden: false
 sidebar:
   nav: "docs"
-  
-feature_row:
-  - image_path: /assets/images/tickerloader.jpg
-    alt: "Ticker Loader"
-    title: "Ticker Loader"
-    excerpt: The ticker loader program fetches daily stock price data from Alpha Vantage and saves them to MySQL database. 
-    url: "https://github.com/dagarwal98/trading/tree/master/TickerLoader"
-    btn_class: "btn--primary"
-    btn_label: "Code"
-  - image_path: /assets/images/portfoliooptimizer.jpg
-    alt: "Portfolio Optimizer"
-    title: "Portfolio Optimizer"
-    excerpt: "Optimizes stock portfolio using Sharpe ratio"
-    url: "https://github.com/dagarwal98/trading/tree/master/PortfolioOptimizer"
-    btn_class: "btn--primary"
-    btn_label: "Code"  
-  - image_path: /assets/images/logisticregression.png
-    alt: "Logistic Regression"
-    title: "Logistic Regression"
-    # excerpt: ""
-    url: "https://github.com/dagarwal98/machinelearning/blob/master/Logistic%20Regression.ipynb"
-    btn_class: "btn--primary"
-    btn_label: "Code"      
 ---
 
 <h1 align="center">Videos</h1>
@@ -45,3 +22,6 @@ This video shows how to import data from MySQL table into Excel worksheet and ha
 
 {% include video id="NNVrf3-cANQ" provider="youtube" %}
 This video switches dashboard screens at a specified time interval. The data is pulled from MySQL table using power query and is refreshed  periodically. As data is refreshed the dashboard is updated to show latest status.
+
+{% include video id="ZQi56NdCRFE" provider="youtube" %}
+This one is for parents with young kids. I have created a program in Excel to generate math worksheets for kids to practice. Using this program, unlimited worksheets for addition, subtraction, multiplication, or division can be created.
