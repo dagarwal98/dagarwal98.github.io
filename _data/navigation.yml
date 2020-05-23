@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+
+docs:
+  - title: Articles
+    children:
+      - title: "Machine Learning"
+        url: /mlarticles/
+      - title: "Miscellaneous"
+        url: /misc/
+
+  - title: Software
+    children:
+      - title: "Machine Learning"
+        url: /mlcode/
+      - title: "Finance"
+        url: /financecode/
+
+  - title: Videos
+    children:
+      - title: "Education"
+        url: /videos/
