@@ -8,6 +8,11 @@ sidebar:
 
 <h1 align="center">Videos</h1>
 
+{% include video id="mRrfA6nqw1M" provider="youtube" %}
+Learn Python programming using Karel the Robot - Part I.
+<p>&nbsp;</p>
+
+
 {% include video id="qieH_mrYqTQ" provider="youtube" %}
 An introduction to types of cell references in Excel.
 <p>&nbsp;</p>
